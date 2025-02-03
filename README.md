@@ -2,7 +2,7 @@
 
 Turns serpulo trees into destructible environment, able to be built over or destroyed. This will result in harvesting timber, a new flammable material which can be used as fuel.
 
-Dependency of the [Etigei Exile](https://github.com/Lysent/etigei-exile) mod as of version 2.1.0 (upcoming update). Will be a dependency of the [Terra Accura](https://github.com/Lysent/terra-accura) mod.
+Dependency of the [Etigei Exile](https://github.com/Lysent/etigei-exile) mod as of version 2.1.0 (upcoming update).
 
 **Timber is not currently a dependency of the mods above, but will soon be in an upcoming version.**
 
