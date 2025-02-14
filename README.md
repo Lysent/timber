@@ -16,6 +16,9 @@ Trees on Serpulo or custom maps (or modded maps) using the vanilla trees (Pine, 
 
 From breaking trees, timber can be harvested. This can be used as fuel for generators using flammable materials. Timber has further uses in the mod [Etigei Exile](https://github.com/Lysent/etigei-exile) as of version 2.1.0.
 
+## Installation
+The main and recommended way of downloading Timber (EDT) is to go through the **Mindustry Mod Browser** within the game. 
+
 ## **Discord**
 Found a bug? Want to share suggestions? Want to connect with a community? Join the [**Discord**](https://discord.com/invite/TJKZgr6UDg)   server. We highly appreciate any feedback.
 

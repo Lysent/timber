@@ -1,7 +1,7 @@
 {
   "name": "edt",
   "displayName": "Timber (EDT)",
-  "author": "[[]lime]Mitemi[[]gray] & [[]cyan]Tikup",
+  "author": "[[]lime]Mitemi[[]lightgray] & [[]cyan]Tikup",
   "description": "[[]green]EDT [[]yellow]- Environment Destruction Timber\n\n[[]white]Adds destructible environment to make trees destroyable in Serpulo. Grants timber which can be used as fuel. Dependency of the Etigei Exile mod, but works as a standalone.\n\n[[]white]Discord: [[]blue]https://discord.com/invite/TJKZgr6UDg",
   "subtitle": "Chop Chop",
   "repo": "Lysent/timber",
