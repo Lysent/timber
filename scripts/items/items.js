@@ -2,7 +2,7 @@
 const timber = Item("timber");
 
 timber.localizedName = "Timber";
-timber.description = "Timberen materials acquired from manually breaking trees.";
+timber.description = "Wooden materials acquired from manually breaking trees.";
 timber.color = Color.valueOf("a85c32");
 timber.cost = 0;
 timber.flammability = 1;
