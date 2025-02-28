@@ -45,7 +45,7 @@ Events.on(ContentInitEvent, () => {
     addTechNode({
         parent: Vars.content.item("copper"),
         unlock: Vars.content.item("edt-timber"),
-        objectives: [new Objectives.Produce(Vars.content.item("edt-timber"))],
+        objectives: [new Objectives.Produce(Vars.content.item("coal"))],
         planet: "serpulo"
     });
 });
