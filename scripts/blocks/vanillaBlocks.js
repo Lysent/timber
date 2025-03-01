@@ -4,7 +4,5 @@ for (let i = 0; i < trees.length; i++) {
 
     tree.breakable = true;
     tree.alwaysReplace = true;
-    tree.requirements = ItemStack.with(
-        Vars.content.item("edt-timber"), 32
-    );
+    tree.requirements = ItemStack.with(Vars.content.item("edt-timber"), 32);
 }
